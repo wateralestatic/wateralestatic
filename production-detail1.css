@@ -1,0 +1,120 @@
+.production-details1 {
+  position: absolute;
+  top: 248px;
+  left: 73px;
+  font-size: var(--font-size-36xl);
+  letter-spacing: 0.6px;
+  line-height: 55px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 550px;
+  height: 93px;
+}
+.welcome-to-waterale2 {
+  margin-block-start: 0;
+  margin-block-end: 35px;
+}
+.experience-the-difference1 {
+  margin: 0;
+}
+.welcome-to-waterale-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.welcome-to-waterale-container2 {
+  position: absolute;
+  top: 501px;
+  left: calc(50% - 527px);
+  letter-spacing: 0.6px;
+  line-height: 35px;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 807px;
+  height: 1707px;
+}
+.component-2-item {
+  position: absolute;
+  height: 100%;
+  width: 90.46%;
+  top: 0;
+  right: 9.54%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+}
+.link-aquafina-logo-home-link4 {
+  position: absolute;
+  height: 72%;
+  width: 15.52%;
+  top: 28%;
+  right: 84.48%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-our2 {
+  position: relative;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.isolation-mode22 {
+  position: relative;
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation4 {
+  position: absolute;
+  height: 98%;
+  width: 86.74%;
+  top: 0;
+  right: 0;
+  bottom: 2%;
+  left: 13.26%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-25xl) var(--padding-64xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xl);
+}
+.component-12,
+.component-22 {
+  position: absolute;
+  height: 55.56%;
+  width: 95.53%;
+  top: 7.78%;
+  right: 0;
+  bottom: 36.67%;
+  left: 4.47%;
+}
+.component-22 {
+  height: 7.17%;
+  width: 111.83%;
+  top: 0;
+  right: -11.83%;
+  bottom: 92.83%;
+  left: 0;
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.production-detail1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2510px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

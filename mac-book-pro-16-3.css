@@ -1,0 +1,161 @@
+.untitled-design-1-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1146px;
+  height: 1178px;
+  object-fit: cover;
+}
+.waterale-is-committed1 {
+  margin: 0;
+}
+.waterale-is-committed-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.waterale-is-committed-container2 {
+  position: absolute;
+  top: 324px;
+  left: 1058px;
+  letter-spacing: 0.6px;
+  line-height: 50px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 609px;
+  height: 763px;
+}
+.span2 {
+  font-size: var(--font-size-6xl);
+}
+.community2 {
+  position: absolute;
+  top: 259px;
+  left: 1043px;
+  letter-spacing: 0.6px;
+  line-height: 50px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  width: 374px;
+  height: 65px;
+  font-size: var(--font-size-36xl);
+}
+.header-child5 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 150px);
+  left: -148px;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+  width: 1905px;
+  height: 226px;
+  z-index: 0;
+}
+.link-aquafina-logo-home-link13 {
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: calc(50% - 814.5px);
+  width: 301px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 0;
+}
+.link-our11 {
+  position: absolute;
+  top: 60.27px;
+  left: -63px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.link-product55,
+.link-product56,
+.link-product57,
+.link-product58,
+.link-product59 {
+  position: absolute;
+  top: 60px;
+  left: 159px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product56,
+.link-product57,
+.link-product58,
+.link-product59 {
+  left: 504px;
+}
+.link-product57,
+.link-product58,
+.link-product59 {
+  left: 832px;
+}
+.link-product58,
+.link-product59 {
+  left: 686px;
+}
+.link-product59 {
+  left: 320px;
+}
+.isolation-mode211 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% + 242px);
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation13 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 60px);
+  left: 682px;
+  width: 978px;
+  height: 120px;
+  z-index: 1;
+}
+.divcontain7,
+.header7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divcontain7 {
+  width: 1713px;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  margin-left: -101px;
+}
+.header7 {
+  position: absolute;
+  width: calc(100% - 13px);
+  top: calc(50% - 517.5px);
+  right: -27px;
+  left: 40px;
+  background-color: var(--color-gray-300);
+  height: 182px;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.macbook-pro-16-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

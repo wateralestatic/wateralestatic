@@ -1,0 +1,599 @@
+.divhero-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-height: 100%;
+  width: 1280px;
+  object-fit: cover;
+}
+.isolation-mode2 {
+  position: absolute;
+  top: 78px;
+  left: 916px;
+  width: 11px;
+  height: 14px;
+  display: none;
+}
+.image1-1-icon,
+.picture-aquafina-blue-logo-0 {
+  position: absolute;
+  top: 232px;
+  left: 60px;
+  width: 278px;
+  height: 549px;
+  object-fit: cover;
+}
+.picture-aquafina-blue-logo-0 {
+  top: 302px;
+  left: 678px;
+  width: 514px;
+  height: 233px;
+}
+.pseudo {
+  position: absolute;
+  top: -76px;
+  left: -18.04px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 240px;
+  height: 200px;
+}
+.our-products {
+  position: absolute;
+  top: 10.42px;
+  left: 31.87px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+  height: 28px;
+}
+.link-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 421.13px;
+  height: 101.58px;
+  mix-blend-mode: darken;
+}
+.link-2,
+.untitled-design-1 {
+  position: absolute;
+  overflow: hidden;
+}
+.link-2 {
+  top: 558px;
+  left: 830px;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-darkslateblue-300);
+  box-sizing: border-box;
+  width: 201.05px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-montserrat-alternates);
+}
+.untitled-design-1 {
+  height: 84.91%;
+  width: 42.87%;
+  top: 0;
+  right: 0;
+  bottom: 15.09%;
+  left: 57.13%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-us,
+.welcome-to-waterale {
+  position: absolute;
+  top: 14.6%;
+  letter-spacing: 0.6px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+}
+.welcome-to-waterale {
+  height: 70.8%;
+  width: 46.48%;
+  left: 3.52%;
+  font-weight: 300;
+  mix-blend-mode: normal;
+}
+.about-us {
+  height: 10.95%;
+  width: 31.23%;
+  left: 3.69%;
+  font-size: var(--font-size-36xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  -webkit-text-stroke: 1px #000;
+}
+.component-1 {
+  position: absolute;
+  top: 832px;
+  left: 60px;
+  width: 1220px;
+  height: 822px;
+  color: var(--color-darkslateblue-200);
+}
+.waterale-is-committed {
+  margin: 0;
+}
+.waterale-is-committed-container {
+  position: absolute;
+  height: 81%;
+  width: 46%;
+  top: 0;
+  left: 56.39%;
+  letter-spacing: 0.6px;
+  line-height: 45px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.community1 {
+  line-height: 45px;
+}
+.span {
+  font-size: 50px;
+  line-height: 50px;
+}
+.community-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.community {
+  position: absolute;
+  height: 6.75%;
+  width: 30.83%;
+  top: 10.7%;
+  left: 55.15%;
+  letter-spacing: 0.6px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-size: var(--font-size-36xl);
+}
+.untitled-design-1-12x-1-icon {
+  position: absolute;
+  height: 74.97%;
+  width: 46.83%;
+  top: 0;
+  right: 53.17%;
+  bottom: 25.03%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-2,
+.er-1-1 {
+  position: absolute;
+  top: 1654px;
+  left: 0;
+  width: 1213px;
+  height: 963px;
+}
+.er-1-1 {
+  height: 87.9%;
+  width: 47.17%;
+  top: -4.15%;
+  right: 0;
+  bottom: 16.24%;
+  left: 52.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.discover-waterales-13-stage {
+  position: absolute;
+  height: 75.12%;
+  width: 42.42%;
+  top: 8.64%;
+  left: 1.88%;
+  letter-spacing: 0.6px;
+  line-height: 45px;
+  text-transform: capitalize;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.span1 {
+  line-height: 50px;
+}
+.production,
+.read-more {
+  position: absolute;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.production {
+  height: 7.49%;
+  width: 30.63%;
+  top: 12.21%;
+  left: 0;
+  font-size: var(--font-size-36xl);
+  text-align: center;
+}
+.read-more {
+  height: 8.53%;
+  width: 22.19%;
+  top: 67.51%;
+  left: 1.88%;
+  line-height: 55px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-black);
+  cursor: pointer;
+}
+.component-3 {
+  position: absolute;
+  top: 2476px;
+  left: 73px;
+  width: 1221px;
+  height: 868px;
+}
+.delivery,
+.waterale-is-your {
+  position: absolute;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.waterale-is-your {
+  height: 89.63%;
+  width: 37.89%;
+  top: -1.81%;
+  left: 62.11%;
+  line-height: 45px;
+  font-weight: 300;
+}
+.delivery {
+  height: 8.06%;
+  width: 24.29%;
+  top: 12.69%;
+  left: 60.81%;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+  text-align: center;
+  justify-content: center;
+}
+.whatsapp-image-2023-06-15-at-9 {
+  position: absolute;
+  height: 69.39%;
+  width: 50.04%;
+  top: -1.81%;
+  right: 44.69%;
+  bottom: 32.43%;
+  left: 5.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-4 {
+  position: absolute;
+  top: 3298px;
+  left: -69px;
+  width: 1309px;
+  height: 993px;
+}
+.waterale-is-proud {
+  height: 54.43%;
+  width: 35.46%;
+  top: 0;
+  left: 49.81%;
+  line-height: 45px;
+  font-weight: 300;
+}
+.waterale-alkaline-water,
+.waterale-is-proud,
+.waterales-water-is,
+.wellness {
+  position: absolute;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.waterales-water-is {
+  height: 54.43%;
+  width: 39.44%;
+  top: 45.57%;
+  left: 5.26%;
+  line-height: 45px;
+  font-weight: 300;
+}
+.waterale-alkaline-water,
+.wellness {
+  height: 8.86%;
+  width: 39.29%;
+  top: 2.18%;
+  left: 49.81%;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+}
+.wellness {
+  height: 4.62%;
+  width: 24.72%;
+  top: 49.81%;
+  left: 2.85%;
+  text-align: center;
+  justify-content: center;
+}
+.er-2-1,
+.image2x-1-icon {
+  position: absolute;
+  height: 35.39%;
+  width: 50.19%;
+  top: 51.75%;
+  right: 0;
+  bottom: 12.86%;
+  left: 49.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image2x-1-icon {
+  height: 35.14%;
+  width: 43.28%;
+  top: 3.62%;
+  right: 52.82%;
+  bottom: 61.24%;
+  left: 3.91%;
+}
+.component-5 {
+  position: absolute;
+  top: 4085px;
+  left: -51px;
+  width: 1331px;
+  height: 1602px;
+}
+.e-ave-s {
+  height: 17.77%;
+  width: 39.89%;
+  top: 78.16%;
+  left: 53.96%;
+  cursor: pointer;
+}
+.downey-ave-paramount,
+.e-ave-s,
+.find-us {
+  position: absolute;
+  line-height: 130%;
+  display: inline-block;
+}
+.downey-ave-paramount {
+  height: 8.91%;
+  width: 30.42%;
+  top: 78.16%;
+  left: 8.07%;
+  cursor: pointer;
+}
+.find-us {
+  height: 18.87%;
+  width: 28.3%;
+  top: 0;
+  left: 38.79%;
+  font-size: var(--font-size-36xl);
+  font-weight: 800;
+}
+.screenshot-2023-06-17-at-724,
+.screenshot-2023-06-17-at-733 {
+  position: absolute;
+  height: 44.47%;
+  width: 22.57%;
+  top: 27.73%;
+  right: 67.12%;
+  bottom: 27.8%;
+  left: 10.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.screenshot-2023-06-17-at-733 {
+  height: 44.4%;
+  width: 22.65%;
+  right: 18.09%;
+  bottom: 27.87%;
+  left: 59.27%;
+}
+.component-6 {
+  position: absolute;
+  top: 5586px;
+  left: 0;
+  width: 1338px;
+  height: 696px;
+  color: var(--color-darkslateblue-100);
+}
+.macbook-air-1-child {
+  position: absolute;
+  height: 4.55%;
+  width: 100.19%;
+  top: 95.45%;
+  right: -0.03%;
+  bottom: 0;
+  left: -0.16%;
+  background-color: var(--color-darkslateblue-200);
+}
+.macbook-air-1-item {
+  position: absolute;
+  height: 1.02%;
+  width: 13.45%;
+  top: 95.73%;
+  right: 43.1%;
+  bottom: 3.25%;
+  left: 43.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-us-contact-container,
+.we-are-social-container {
+  position: absolute;
+  height: 2.23%;
+  width: 33.34%;
+  top: 97.15%;
+  left: 4.76%;
+  font-size: var(--font-size-lg);
+  line-height: 130%;
+  display: inline-block;
+  color: var(--color-white);
+}
+.we-are-social-container {
+  width: 30.75%;
+  top: 96.44%;
+  left: 73.78%;
+}
+.line-2-stroke,
+.vector-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  height: 0.3%;
+  width: 7.69%;
+  top: 97.3%;
+  right: 12.6%;
+  bottom: 2.41%;
+  left: 79.71%;
+  cursor: pointer;
+}
+.line-2-stroke {
+  height: 0.03%;
+  width: 100.27%;
+  top: 98.87%;
+  right: -0.27%;
+  bottom: 1.1%;
+  left: 0;
+}
+.copyright-2022-waterale {
+  position: absolute;
+  height: 0.67%;
+  width: 22.31%;
+  top: 99.1%;
+  left: 39.02%;
+  font-size: var(--font-size-lg);
+  line-height: 130%;
+  color: var(--color-white);
+  display: inline-block;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 0.34%;
+  width: 7.69%;
+  top: 97.95%;
+  right: 12.6%;
+  bottom: 1.7%;
+  left: 79.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.header-child {
+  position: relative;
+  background-color: var(--color-snow);
+  filter: blur(170px);
+  width: 1356px;
+  height: 123px;
+}
+.link-aquafina-logo-home-link {
+  position: relative;
+  width: 203px;
+  height: 68px;
+  object-fit: cover;
+}
+.link-our,
+.link-product,
+.link-product1,
+.link-product2,
+.link-product3,
+.link-product4 {
+  position: absolute;
+  top: 52px;
+  left: 246px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product,
+.link-product1,
+.link-product2,
+.link-product3,
+.link-product4 {
+  left: 377px;
+}
+.link-product1,
+.link-product2,
+.link-product3,
+.link-product4 {
+  left: 475px;
+}
+.link-product2,
+.link-product3,
+.link-product4 {
+  left: 595px;
+}
+.link-product3,
+.link-product4 {
+  left: 708px;
+}
+.link-product4 {
+  left: 800px;
+}
+.nav-primary-navigation {
+  position: relative;
+  width: 863px;
+  height: 120px;
+}
+.divcontain {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+}
+.header {
+  position: absolute;
+  width: calc(100% + 160px);
+  top: calc(50% - 3313px);
+  right: -175px;
+  left: 15px;
+  background-color: var(--color-gray-300);
+  height: 123px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.macbook-air-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6666px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

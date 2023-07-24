@@ -1,0 +1,224 @@
+.locate-us-child {
+  position: absolute;
+  top: 705px;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1728px;
+  height: 419px;
+}
+.e-ave-s1 {
+  top: calc(50% - 112.5px);
+  left: calc(50% + 48px);
+  font-size: var(--font-size-13xl);
+  width: 499px;
+  height: 113px;
+}
+.downey-ave-paramount1,
+.e-ave-s1,
+.find-us1 {
+  position: absolute;
+  line-height: 130%;
+  display: inline-block;
+}
+.downey-ave-paramount1 {
+  top: 446px;
+  left: calc(50% - 557px);
+  font-size: var(--font-size-13xl);
+  width: 499px;
+  height: 113px;
+}
+.find-us1 {
+  top: calc(50% - 272.5px);
+  left: calc(50% - 182px);
+  font-size: 64px;
+  font-weight: 800;
+  width: 354px;
+  height: 120px;
+}
+.locate-us-item {
+  position: absolute;
+  top: calc(50% + 172.5px);
+  left: 757px;
+  width: 214px;
+  height: 88px;
+  object-fit: cover;
+}
+.contact-us2 {
+  margin: 0;
+}
+.contact-us-contact-container2,
+.we-are-social-container2 {
+  position: absolute;
+  line-height: 130%;
+  display: inline-block;
+  color: var(--color-white);
+  height: 136px;
+}
+.contact-us-contact-container2 {
+  top: calc(50% + 301.5px);
+  left: 112px;
+  width: 399px;
+}
+.we-are-social-container2 {
+  top: 860px;
+  left: calc(50% + 415px);
+  width: 368px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: calc(50% + 346.5px);
+  left: 1400px;
+  width: 125px;
+  height: 23px;
+}
+.line-2-stroke2 {
+  position: absolute;
+  top: calc(50% + 476.5px);
+  left: calc(50% - 864px);
+  width: 2376.08px;
+  height: 2px;
+}
+.copyright-2022-waterale2 {
+  position: absolute;
+  top: calc(50% + 511.5px);
+  left: calc(50% - 203px);
+  line-height: 130%;
+  color: var(--color-white);
+  display: inline-block;
+  width: 406px;
+  height: 216px;
+}
+.vector-icon5,
+.vector-icon6 {
+  position: absolute;
+  width: 125px;
+}
+.vector-icon5 {
+  top: calc(50% + 425.5px);
+  left: 1400px;
+  height: 22px;
+}
+.vector-icon6 {
+  height: 3.04%;
+  top: 84.06%;
+  bottom: 12.89%;
+  left: calc(50% + 536px);
+  max-height: 100%;
+}
+.header-child1 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 150px);
+  left: -148px;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+  width: 1905px;
+  height: 226px;
+  z-index: 0;
+}
+.link-aquafina-logo-home-link9 {
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: calc(50% - 814.5px);
+  width: 301px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 0;
+}
+.link-our7 {
+  position: absolute;
+  top: 60.27px;
+  left: -63px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.link-product35,
+.link-product36,
+.link-product37,
+.link-product38,
+.link-product39 {
+  position: absolute;
+  top: 60px;
+  left: 159px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product36,
+.link-product37,
+.link-product38,
+.link-product39 {
+  left: 504px;
+}
+.link-product37,
+.link-product38,
+.link-product39 {
+  left: 832px;
+}
+.link-product38,
+.link-product39 {
+  left: 686px;
+}
+.link-product39 {
+  left: 320px;
+}
+.isolation-mode27 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% + 242px);
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation9 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 60px);
+  left: 682px;
+  width: 978px;
+  height: 120px;
+  z-index: 1;
+}
+.divcontain3,
+.header3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divcontain3 {
+  width: 1713px;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  margin-left: -101px;
+}
+.header3 {
+  position: absolute;
+  width: calc(100% - 13px);
+  top: calc(50% - 517.5px);
+  right: -27px;
+  left: 40px;
+  background-color: var(--color-gray-300);
+  height: 182px;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.locate-us {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-montserrat);
+}

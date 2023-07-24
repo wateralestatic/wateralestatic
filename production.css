@@ -1,0 +1,164 @@
+.er-1-11 {
+  position: absolute;
+  top: 0;
+  left: 891px;
+  width: 1846px;
+  height: 1117px;
+  object-fit: cover;
+}
+.discover-waterales-13-stage1 {
+  top: 341px;
+  left: 102px;
+  line-height: 55px;
+  text-transform: capitalize;
+  font-weight: 300;
+  width: 757px;
+  height: 652px;
+}
+.discover-waterales-13-stage1,
+.production3,
+.read-more1 {
+  position: absolute;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.read-more1 {
+  top: 947px;
+  left: 102px;
+  line-height: 55px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 271px;
+  height: 74px;
+  cursor: pointer;
+}
+.production3 {
+  top: 276px;
+  left: 79px;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+  text-align: center;
+  justify-content: center;
+  width: 374px;
+  height: 65px;
+}
+.header-child4 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 150px);
+  left: -148px;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+  width: 1905px;
+  height: 226px;
+  z-index: 0;
+}
+.link-aquafina-logo-home-link12 {
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: calc(50% - 814.5px);
+  width: 301px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 0;
+}
+.link-our10 {
+  position: absolute;
+  top: 60.27px;
+  left: -63px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.link-product50,
+.link-product51,
+.link-product52,
+.link-product53,
+.link-product54 {
+  position: absolute;
+  top: 60px;
+  left: 159px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product51,
+.link-product52,
+.link-product53,
+.link-product54 {
+  left: 504px;
+}
+.link-product52,
+.link-product53,
+.link-product54 {
+  left: 832px;
+}
+.link-product53,
+.link-product54 {
+  left: 686px;
+}
+.link-product54 {
+  left: 320px;
+}
+.isolation-mode210 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% + 242px);
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation12 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 60px);
+  left: 682px;
+  width: 978px;
+  height: 120px;
+  z-index: 1;
+}
+.divcontain6,
+.header6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divcontain6 {
+  width: 1713px;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  margin-left: -101px;
+}
+.header6 {
+  position: absolute;
+  width: calc(100% - 13px);
+  top: calc(50% - 517.5px);
+  right: -27px;
+  left: 40px;
+  background-color: var(--color-gray-300);
+  height: 182px;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.production2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

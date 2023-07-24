@@ -1,0 +1,177 @@
+.image-icon {
+  position: absolute;
+  top: 318px;
+  left: 0;
+  border-radius: 4px;
+  width: 868px;
+  height: 731px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.waterale-is-proud1 {
+  top: 301px;
+  left: 888px;
+  line-height: 55px;
+  font-weight: 300;
+  width: 729px;
+  height: 872px;
+}
+.waterale-alkaline-water1,
+.waterale-is-proud1,
+.waterales-water-is1,
+.wellness2 {
+  position: absolute;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.waterales-water-is1 {
+  top: 1173px;
+  left: 94px;
+  line-height: 55px;
+  font-weight: 300;
+  width: 821px;
+  height: 872px;
+}
+.waterale-alkaline-water1,
+.wellness2 {
+  top: 318px;
+  left: 864px;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+  text-align: center;
+  justify-content: center;
+  width: 740px;
+  height: 74px;
+}
+.wellness2 {
+  top: 1204px;
+  left: 62px;
+  width: 329px;
+}
+.er-2-11 {
+  position: absolute;
+  top: 1226px;
+  left: 939px;
+  width: 895px;
+  height: 746px;
+  object-fit: cover;
+}
+.header-child2 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 150px);
+  left: -148px;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+  width: 1905px;
+  height: 226px;
+  z-index: 0;
+}
+.link-aquafina-logo-home-link10 {
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: calc(50% - 814.5px);
+  width: 301px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 0;
+}
+.link-our8 {
+  position: absolute;
+  top: 60.27px;
+  left: -63px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.link-product40,
+.link-product41,
+.link-product42,
+.link-product43,
+.link-product44 {
+  position: absolute;
+  top: 60px;
+  left: 159px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product41,
+.link-product42,
+.link-product43,
+.link-product44 {
+  left: 504px;
+}
+.link-product42,
+.link-product43,
+.link-product44 {
+  left: 832px;
+}
+.link-product43,
+.link-product44 {
+  left: 686px;
+}
+.link-product44 {
+  left: 320px;
+}
+.isolation-mode28 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% + 242px);
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation10 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 60px);
+  left: 682px;
+  width: 978px;
+  height: 120px;
+  z-index: 1;
+}
+.divcontain4,
+.header4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divcontain4 {
+  width: 1713px;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  margin-left: -101px;
+}
+.header4 {
+  position: absolute;
+  width: calc(100% - 13px);
+  top: calc(50% - 1048px);
+  right: -27px;
+  left: 40px;
+  background-color: var(--color-gray-300);
+  height: 182px;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.wellness1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2178px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

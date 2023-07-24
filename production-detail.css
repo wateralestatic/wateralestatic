@@ -1,0 +1,90 @@
+.production-details {
+  position: absolute;
+  top: 248px;
+  left: 73px;
+  letter-spacing: 0.6px;
+  line-height: 55px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 550px;
+  height: 93px;
+}
+.our-advanced-filtration {
+  margin-block-start: 0;
+  margin-block-end: 35px;
+}
+.experience-the-difference {
+  margin: 0;
+}
+.welcome-to-waterale-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.welcome-to-waterale-container {
+  position: absolute;
+  top: 219px;
+  left: calc(50% - 515px);
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.6px;
+  line-height: 20px;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 807px;
+  height: 1707px;
+}
+.header-inner {
+  position: relative;
+  background-color: var(--color-snow);
+  filter: blur(170px);
+  width: 1356px;
+  height: 123px;
+}
+.link-aquafina-logo-home-link2 {
+  position: relative;
+  width: 203px;
+  height: 68px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.nav-primary-navigation2 {
+  position: relative;
+  width: 863px;
+  height: 120px;
+}
+.divcontain2 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+}
+.header2 {
+  position: absolute;
+  width: calc(100% + 240px);
+  top: calc(50% - 874px);
+  right: -267px;
+  left: 27px;
+  background-color: var(--color-gray-300);
+  height: 123px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.production-detail {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,160 @@
+.whatsapp-image-2023-06-15-at-91 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1195px;
+  height: 1117px;
+  object-fit: cover;
+}
+.delivery3,
+.waterale-is-your1 {
+  position: absolute;
+  top: 246px;
+  letter-spacing: 0.6px;
+  display: flex;
+  align-items: center;
+}
+.waterale-is-your1 {
+  left: 1115px;
+  line-height: 55px;
+  font-weight: 300;
+  width: 591px;
+  height: 890px;
+}
+.delivery3 {
+  left: 1156px;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+  text-align: center;
+  justify-content: center;
+  width: 271px;
+  height: 80px;
+}
+.delivery2 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.delivery2,
+.mask-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 1117px;
+}
+.header-child3 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 150px);
+  left: -148px;
+  background-color: var(--color-gray-100);
+  filter: blur(170px);
+  width: 1905px;
+  height: 226px;
+  z-index: 0;
+}
+.link-aquafina-logo-home-link11 {
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: calc(50% - 814.5px);
+  width: 301px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 0;
+}
+.link-our9 {
+  position: absolute;
+  top: 60.27px;
+  left: -63px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.link-product45,
+.link-product46,
+.link-product47,
+.link-product48,
+.link-product49 {
+  position: absolute;
+  top: 60px;
+  left: 159px;
+  letter-spacing: 0.6px;
+  line-height: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.link-product46,
+.link-product47,
+.link-product48,
+.link-product49 {
+  left: 504px;
+}
+.link-product47,
+.link-product48,
+.link-product49 {
+  left: 832px;
+}
+.link-product48,
+.link-product49 {
+  left: 686px;
+}
+.link-product49 {
+  left: 320px;
+}
+.isolation-mode29 {
+  position: absolute;
+  top: 56px;
+  left: calc(50% + 242px);
+  width: 11px;
+  height: 14px;
+}
+.nav-primary-navigation11 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 60px);
+  left: 682px;
+  width: 978px;
+  height: 120px;
+  z-index: 1;
+}
+.divcontain5,
+.header5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.divcontain5 {
+  width: 1713px;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  margin-left: -101px;
+}
+.header5 {
+  position: absolute;
+  width: calc(100% - 13px);
+  top: calc(50% - 517.5px);
+  right: -27px;
+  left: 40px;
+  background-color: var(--color-gray-300);
+  height: 182px;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-montserrat-alternates);
+}
+.delivery1 {
+  position: relative;
+  width: 100%;
+  height: 1117px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

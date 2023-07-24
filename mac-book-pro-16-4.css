@@ -1,0 +1,197 @@
+.welcome-to-our {
+  position: absolute;
+  top: 191px;
+  left: 107px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.6px;
+  line-height: 45px;
+  font-weight: 500;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 995px;
+  height: 92px;
+}
+.our-alkaline-water {
+  margin: 0;
+}
+.our-alkaline-water-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.both-our-5-container,
+.our-alkaline-water-container {
+  position: absolute;
+  top: 287px;
+  left: 364px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.6px;
+  line-height: 20px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 463px;
+  height: 309px;
+}
+.both-our-5-container {
+  top: 559px;
+  left: 521px;
+  width: 347px;
+  height: 211px;
+}
+.er-3-1,
+.er-4-1 {
+  position: absolute;
+  top: 335px;
+  left: 38px;
+  width: 282px;
+  height: 335px;
+  object-fit: cover;
+}
+.er-3-1 {
+  top: 487px;
+  left: 889px;
+  width: 269px;
+  height: 311px;
+}
+.macbook-pro-16-4-child {
+  position: absolute;
+  height: 26.19%;
+  width: 100%;
+  top: 73.81%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+}
+.macbook-pro-16-4-item {
+  position: absolute;
+  height: 5.79%;
+  width: 13.5%;
+  top: 75.19%;
+  right: 43.17%;
+  bottom: 19.01%;
+  left: 43.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-us-contact-container1,
+.we-are-social-container1 {
+  position: absolute;
+  height: 12.88%;
+  width: 33.25%;
+  top: 83.32%;
+  left: 4.75%;
+  line-height: 130%;
+  display: inline-block;
+  color: var(--color-white);
+}
+.we-are-social-container1 {
+  height: 12.79%;
+  width: 30.67%;
+  top: 79.26%;
+  left: 73.67%;
+}
+.line-2-stroke1,
+.vector-icon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2 {
+  height: 1.64%;
+  width: 7.67%;
+  top: 84.18%;
+  right: 12.75%;
+  bottom: 14.17%;
+  left: 79.58%;
+  cursor: pointer;
+}
+.line-2-stroke1 {
+  height: 0.17%;
+  width: 100.08%;
+  top: 93.26%;
+  right: -0.08%;
+  bottom: 6.57%;
+  left: 0;
+}
+.copyright-2022-waterale1 {
+  position: absolute;
+  height: 3.89%;
+  width: 22.33%;
+  top: 94.55%;
+  left: 38.92%;
+  line-height: 130%;
+  color: var(--color-white);
+  display: inline-block;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 1.99%;
+  width: 7.67%;
+  top: 87.99%;
+  right: 12.75%;
+  bottom: 10.03%;
+  left: 79.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.header-item {
+  position: relative;
+  background-color: var(--color-snow);
+  filter: blur(170px);
+  width: 1356px;
+  height: 123px;
+}
+.link-aquafina-logo-home-link1 {
+  position: relative;
+  width: 203px;
+  height: 68px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.nav-primary-navigation1 {
+  position: relative;
+  width: 863px;
+  height: 120px;
+}
+.divcontain1 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-23xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+}
+.header1 {
+  position: absolute;
+  width: calc(100% + 240px);
+  top: calc(50% - 562.5px);
+  right: -255px;
+  left: 15px;
+  background-color: var(--color-gray-300);
+  height: 123px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-60xl) 0 var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.macbook-pro-16-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1157px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}
